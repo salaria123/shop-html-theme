@@ -82,7 +82,7 @@ body{
 /* showcase styling */
 .showcase-area{
     height: 60vh;
-    background: linear-gradient(rgba(240, 240, 240, 0.144 ),rgba(255, 255, 255 ,0.336)) ,url(assests/dgh);
+    background: linear-gradient(rgba(240, 240, 240, 0.144 ),rgba(255, 255, 255 ,0.336)) ,url(assets/dgh);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
